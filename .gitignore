@@ -1,6 +1,5 @@
 report/
 docs/01_problem_statement.md
-docs/02_literature_review.md
 __pycache__/
 *.py[cod]
 .idea/
